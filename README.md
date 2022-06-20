@@ -1,1 +1,1 @@
-# Exercicio com loop for para AlphaEDTech
+# Exercise involving loops for AlphaEDTech
